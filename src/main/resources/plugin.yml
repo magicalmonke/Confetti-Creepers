@@ -1,4 +1,4 @@
-name: Confetti Creepers
+name: ConfettiCreepers
 version: '${project.version}'
 main: me.taako.confetticreepers.ConfettiCreepers
 api-version: '1.20'
